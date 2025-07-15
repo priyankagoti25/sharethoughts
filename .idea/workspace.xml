@@ -37,7 +37,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "22e01e3f",
     "last_opened_file_path": "P:/nextjs/sharethoughts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,6 +67,7 @@
       <workItem from="1752468800467" duration="14209000" />
       <workItem from="1752553606834" duration="18338000" />
       <workItem from="1752580614207" duration="1373000" />
+      <workItem from="1752582324421" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="send email and signup setup">
       <option name="closed" value="true" />
